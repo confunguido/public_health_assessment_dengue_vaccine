@@ -1,0 +1,2 @@
+SimulationName,Seed,SeedInf,NumDays,VaccineFile,OutputPath,ReportFile,DiseaseRates,LocationFile,TrajectoryFile,DeathRate,ForceOfImportationFile,InitialFoiFile,HumanImmunityDays,ProtoPac,MosquitoInfectiousness,MosquitoMoveProbability,MosquitoRatesFile
+sim_1,735387356,735387356,1550,vaccine_trial_settings.txt,.,reporting_gsk_trial.txt,disease_rates.csv,Locations20160720.csv,trajectories_31_20161101.txt,birthdeath_15.csv,6.90983005625053e-09,annual_foi_0.csv,initial_foi_iquitos.csv,686,1,0.86,0.3,AegyptiPars.csv
